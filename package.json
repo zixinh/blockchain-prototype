@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/zixinh/blockchain-prototype#readme",
   "dependencies": {
-    "elliptic": "^6.5.0"
+    "elliptic": "^6.5.3"
   }
 }
